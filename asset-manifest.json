@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/DesireeJoy/DesireeJoy_Portfolio.git/static/css/main.5006635b.chunk.css",
+    "main.js": "/DesireeJoy/DesireeJoy_Portfolio.git/static/js/main.04e82903.chunk.js",
+    "main.js.map": "/DesireeJoy/DesireeJoy_Portfolio.git/static/js/main.04e82903.chunk.js.map",
+    "runtime-main.js": "/DesireeJoy/DesireeJoy_Portfolio.git/static/js/runtime-main.51ae8845.js",
+    "runtime-main.js.map": "/DesireeJoy/DesireeJoy_Portfolio.git/static/js/runtime-main.51ae8845.js.map",
+    "static/js/2.7ea2377a.chunk.js": "/DesireeJoy/DesireeJoy_Portfolio.git/static/js/2.7ea2377a.chunk.js",
+    "static/js/2.7ea2377a.chunk.js.map": "/DesireeJoy/DesireeJoy_Portfolio.git/static/js/2.7ea2377a.chunk.js.map",
+    "static/js/3.36c4a786.chunk.js": "/DesireeJoy/DesireeJoy_Portfolio.git/static/js/3.36c4a786.chunk.js",
+    "static/js/3.36c4a786.chunk.js.map": "/DesireeJoy/DesireeJoy_Portfolio.git/static/js/3.36c4a786.chunk.js.map",
+    "index.html": "/DesireeJoy/DesireeJoy_Portfolio.git/index.html",
+    "precache-manifest.da8d30a36356758af6f840225acd5980.js": "/DesireeJoy/DesireeJoy_Portfolio.git/precache-manifest.da8d30a36356758af6f840225acd5980.js",
+    "service-worker.js": "/DesireeJoy/DesireeJoy_Portfolio.git/service-worker.js",
+    "static/css/main.5006635b.chunk.css.map": "/DesireeJoy/DesireeJoy_Portfolio.git/static/css/main.5006635b.chunk.css.map",
+    "static/js/2.7ea2377a.chunk.js.LICENSE.txt": "/DesireeJoy/DesireeJoy_Portfolio.git/static/js/2.7ea2377a.chunk.js.LICENSE.txt",
+    "static/media/MostAlive.jpeg": "/DesireeJoy/DesireeJoy_Portfolio.git/static/media/MostAlive.47e3cec6.jpeg",
+    "static/media/App.css": "/DesireeJoy/DesireeJoy_Portfolio.git/static/media/source-code-pro-v14-latin-regular.81a1b0e1.woff2",
+    "static/media/github-black.svg": "/DesireeJoy/DesireeJoy_Portfolio.git/static/media/github-black.5cff78e4.svg",
+    "static/media/github.svg": "/DesireeJoy/DesireeJoy_Portfolio.git/static/media/github.f0fe9b64.svg",
+    "static/media/linkedin-black.svg": "/DesireeJoy/DesireeJoy_Portfolio.git/static/media/linkedin-black.beb71356.svg",
+    "static/media/linkedin.svg": "/DesireeJoy/DesireeJoy_Portfolio.git/static/media/linkedin.1101b083.svg",
+    "static/media/project1.png": "/DesireeJoy/DesireeJoy_Portfolio.git/static/media/project1.2209732a.png",
+    "static/media/project2.png": "/DesireeJoy/DesireeJoy_Portfolio.git/static/media/project2.675bd639.png",
+    "static/media/project3.png": "/DesireeJoy/DesireeJoy_Portfolio.git/static/media/project3.2315ae92.png",
+    "static/media/twitter-black.svg": "/DesireeJoy/DesireeJoy_Portfolio.git/static/media/twitter-black.43449f1c.svg",
+    "static/media/twitter.svg": "/DesireeJoy/DesireeJoy_Portfolio.git/static/media/twitter.2a9d0472.svg",
+    "static/media/video-off.svg": "/DesireeJoy/DesireeJoy_Portfolio.git/static/media/video-off.8953562e.svg",
+    "static/media/youtube-black.svg": "/DesireeJoy/DesireeJoy_Portfolio.git/static/media/youtube-black.1fe436a8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51ae8845.js",
+    "static/js/2.7ea2377a.chunk.js",
+    "static/css/main.5006635b.chunk.css",
+    "static/js/main.04e82903.chunk.js"
+  ]
+}
