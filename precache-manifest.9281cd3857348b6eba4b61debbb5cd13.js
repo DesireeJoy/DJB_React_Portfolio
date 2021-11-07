@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d61c36c898d33e249b46a6d149c87cde",
+    "revision": "6f124c85a77b9ba79531a8460faad059",
     "url": "/DesireeJoy_Portfolio/index.html"
   },
   {
-    "revision": "f0c1f407692bb25b474b",
+    "revision": "e34feb32217006d40636",
     "url": "/DesireeJoy_Portfolio/static/css/main.d77584c2.chunk.css"
   },
   {
-    "revision": "5cb8a8146026b7219560",
-    "url": "/DesireeJoy_Portfolio/static/js/2.7ea2377a.chunk.js"
+    "revision": "063ec4ffcc1aca8e3a7c",
+    "url": "/DesireeJoy_Portfolio/static/js/2.99a2f06d.chunk.js"
   },
   {
     "revision": "f3f3bbe80c72fa3fdfc1362fb7e3cf48",
-    "url": "/DesireeJoy_Portfolio/static/js/2.7ea2377a.chunk.js.LICENSE.txt"
+    "url": "/DesireeJoy_Portfolio/static/js/2.99a2f06d.chunk.js.LICENSE.txt"
   },
   {
     "revision": "02413e88452b3078dced",
     "url": "/DesireeJoy_Portfolio/static/js/3.36c4a786.chunk.js"
   },
   {
-    "revision": "f0c1f407692bb25b474b",
-    "url": "/DesireeJoy_Portfolio/static/js/main.58c7d4e1.chunk.js"
+    "revision": "e34feb32217006d40636",
+    "url": "/DesireeJoy_Portfolio/static/js/main.822c1a90.chunk.js"
   },
   {
     "revision": "eb4bd02065ca2400bdfb",
