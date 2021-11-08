@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "724a7a7d574982fff67806e8cd244592",
+    "revision": "1bd0d5dc1203919bfaaf60ba85e0a4f6",
     "url": "/DesireeJoy_Portfolio/index.html"
   },
   {
-    "revision": "a6d4218e93a7823fd4c3",
-    "url": "/DesireeJoy_Portfolio/static/css/main.caea66c3.chunk.css"
+    "revision": "33ef31d9776d2651e858",
+    "url": "/DesireeJoy_Portfolio/static/css/main.2d072e13.chunk.css"
   },
   {
     "revision": "063ec4ffcc1aca8e3a7c",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DesireeJoy_Portfolio/static/js/3.36c4a786.chunk.js"
   },
   {
-    "revision": "a6d4218e93a7823fd4c3",
-    "url": "/DesireeJoy_Portfolio/static/js/main.b8e3e71e.chunk.js"
+    "revision": "33ef31d9776d2651e858",
+    "url": "/DesireeJoy_Portfolio/static/js/main.843ea10a.chunk.js"
   },
   {
     "revision": "eb4bd02065ca2400bdfb",
@@ -36,28 +36,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DesireeJoy_Portfolio/static/media/flyingLFarms.77d354c6.jpeg"
   },
   {
-    "revision": "5cff78e44ca42e5026f832f7b41fb018",
-    "url": "/DesireeJoy_Portfolio/static/media/github-black.5cff78e4.svg"
+    "revision": "f7d5b8bc61c31173ec12bf12802da864",
+    "url": "/DesireeJoy_Portfolio/static/media/github-black.f7d5b8bc.svg"
   },
   {
-    "revision": "f0fe9b643a67e2a619d74fddf2140872",
-    "url": "/DesireeJoy_Portfolio/static/media/github.f0fe9b64.svg"
+    "revision": "3c1a2291bb82971f9d7e2de7af667d59",
+    "url": "/DesireeJoy_Portfolio/static/media/github.3c1a2291.svg"
   },
   {
-    "revision": "beb7135630c8d3725bc3571be62ad56a",
-    "url": "/DesireeJoy_Portfolio/static/media/linkedin-black.beb71356.svg"
+    "revision": "edeee3213f95c80ea2f6a96206375a57",
+    "url": "/DesireeJoy_Portfolio/static/media/linkedin-black.edeee321.svg"
   },
   {
-    "revision": "1101b083231a3f670ed91efde1ab0d48",
-    "url": "/DesireeJoy_Portfolio/static/media/linkedin.1101b083.svg"
+    "revision": "04376f853a720da554e609f5a437b16f",
+    "url": "/DesireeJoy_Portfolio/static/media/linkedin.04376f85.svg"
   },
   {
-    "revision": "8d32c239f4357e84f2aef3c27b446ca8",
-    "url": "/DesireeJoy_Portfolio/static/media/moon-black.8d32c239.svg"
+    "revision": "afad2edf94166ab26667caffd505e65b",
+    "url": "/DesireeJoy_Portfolio/static/media/moon-black.afad2edf.svg"
   },
   {
-    "revision": "e38a01d14f26be75aa89feec6c0b911a",
-    "url": "/DesireeJoy_Portfolio/static/media/moon-white.e38a01d1.svg"
+    "revision": "ca55242ba3948188c45fc1d8e9d6ef88",
+    "url": "/DesireeJoy_Portfolio/static/media/moon-white.ca55242b.svg"
   },
   {
     "revision": "2209732a700baae138cc773f2cb0d815",
@@ -172,27 +172,27 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DesireeJoy_Portfolio/static/media/source-code-pro-v14-latin-regular.81a1b0e1.woff2"
   },
   {
-    "revision": "46539364a10b9ff19a9dac81b9e154a5",
-    "url": "/DesireeJoy_Portfolio/static/media/sun-black.46539364.svg"
+    "revision": "14234b355dd1484c0ecbbd8e85fdb273",
+    "url": "/DesireeJoy_Portfolio/static/media/sun-black.14234b35.svg"
   },
   {
-    "revision": "e7d1690fac4d2dc5a16453d02de7d2b0",
-    "url": "/DesireeJoy_Portfolio/static/media/sun-white.e7d1690f.svg"
+    "revision": "38ede122f3e1b4058215d05487a081e0",
+    "url": "/DesireeJoy_Portfolio/static/media/sun-white.38ede122.svg"
   },
   {
-    "revision": "43449f1c48de00f0ef903fcacf487626",
-    "url": "/DesireeJoy_Portfolio/static/media/twitter-black.43449f1c.svg"
+    "revision": "0c67659d72d23939732f352faca2a86a",
+    "url": "/DesireeJoy_Portfolio/static/media/twitter-black.0c67659d.svg"
   },
   {
-    "revision": "2a9d0472d09ae6387d84687d99a05479",
-    "url": "/DesireeJoy_Portfolio/static/media/twitter.2a9d0472.svg"
+    "revision": "8f31e87ab87d256d48acba392159f1c0",
+    "url": "/DesireeJoy_Portfolio/static/media/twitter.8f31e87a.svg"
   },
   {
-    "revision": "8953562e4b56d6b7d25471596e57255a",
-    "url": "/DesireeJoy_Portfolio/static/media/video-off.8953562e.svg"
+    "revision": "75aaa3c287f08a3bc306ab53b2535765",
+    "url": "/DesireeJoy_Portfolio/static/media/video-off.75aaa3c2.svg"
   },
   {
-    "revision": "1fe436a84ab9fcfd5cdb30d769c1ef0a",
-    "url": "/DesireeJoy_Portfolio/static/media/youtube-black.1fe436a8.svg"
+    "revision": "569b7401203e229e355abe815ff1cc7f",
+    "url": "/DesireeJoy_Portfolio/static/media/youtube-black.569b7401.svg"
   }
 ]);
