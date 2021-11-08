@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "39e8eedb2fde0fb9a1488034256e9c02",
+    "revision": "f543425cda7391cb8d9b49ff86db3ebf",
     "url": "/DesireeJoy_Portfolio/index.html"
   },
   {
-    "revision": "acc90dafe21f400c782b",
-    "url": "/DesireeJoy_Portfolio/static/css/main.f023ffc7.chunk.css"
+    "revision": "bdec1df41b81c097096f",
+    "url": "/DesireeJoy_Portfolio/static/css/main.9538f195.chunk.css"
   },
   {
     "revision": "063ec4ffcc1aca8e3a7c",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DesireeJoy_Portfolio/static/js/3.36c4a786.chunk.js"
   },
   {
-    "revision": "acc90dafe21f400c782b",
+    "revision": "bdec1df41b81c097096f",
     "url": "/DesireeJoy_Portfolio/static/js/main.843ea10a.chunk.js"
   },
   {
