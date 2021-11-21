@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/DesireeJoy_Portfolio/static/css/main.d8c2ed87.chunk.css",
+    "main.css": "/DesireeJoy_Portfolio/static/css/main.241d75a5.chunk.css",
     "main.js": "/DesireeJoy_Portfolio/static/js/main.64efaccd.chunk.js",
     "main.js.map": "/DesireeJoy_Portfolio/static/js/main.64efaccd.chunk.js.map",
     "runtime-main.js": "/DesireeJoy_Portfolio/static/js/runtime-main.165c9f5f.js",
@@ -10,9 +10,9 @@
     "static/js/3.a76a2add.chunk.js": "/DesireeJoy_Portfolio/static/js/3.a76a2add.chunk.js",
     "static/js/3.a76a2add.chunk.js.map": "/DesireeJoy_Portfolio/static/js/3.a76a2add.chunk.js.map",
     "index.html": "/DesireeJoy_Portfolio/index.html",
-    "precache-manifest.42802f8e97e415bdeabe755dabbb1fa5.js": "/DesireeJoy_Portfolio/precache-manifest.42802f8e97e415bdeabe755dabbb1fa5.js",
+    "precache-manifest.e828c0f8a8ee00f1814317b2c7fa9f13.js": "/DesireeJoy_Portfolio/precache-manifest.e828c0f8a8ee00f1814317b2c7fa9f13.js",
     "service-worker.js": "/DesireeJoy_Portfolio/service-worker.js",
-    "static/css/main.d8c2ed87.chunk.css.map": "/DesireeJoy_Portfolio/static/css/main.d8c2ed87.chunk.css.map",
+    "static/css/main.241d75a5.chunk.css.map": "/DesireeJoy_Portfolio/static/css/main.241d75a5.chunk.css.map",
     "static/js/2.9b605a6d.chunk.js.LICENSE.txt": "/DesireeJoy_Portfolio/static/js/2.9b605a6d.chunk.js.LICENSE.txt",
     "static/media/MostAlive.jpeg": "/DesireeJoy_Portfolio/static/media/MostAlive.47e3cec6.jpeg",
     "static/media/App.css": "/DesireeJoy_Portfolio/static/media/sun-white.38ede122.svg",
@@ -35,7 +35,7 @@
   "entrypoints": [
     "static/js/runtime-main.165c9f5f.js",
     "static/js/2.9b605a6d.chunk.js",
-    "static/css/main.d8c2ed87.chunk.css",
+    "static/css/main.241d75a5.chunk.css",
     "static/js/main.64efaccd.chunk.js"
   ]
 }

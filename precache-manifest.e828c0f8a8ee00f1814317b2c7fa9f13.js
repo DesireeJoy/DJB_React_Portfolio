@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c73d59a3b8e437baacaa5b527a03adc5",
+    "revision": "bcf28a72b4dbe045baf38f3b02690ebb",
     "url": "/DesireeJoy_Portfolio/index.html"
   },
   {
-    "revision": "f28966ae586041e8a657",
-    "url": "/DesireeJoy_Portfolio/static/css/main.d8c2ed87.chunk.css"
+    "revision": "a4be3515da15767cae40",
+    "url": "/DesireeJoy_Portfolio/static/css/main.241d75a5.chunk.css"
   },
   {
     "revision": "16ddcb086e77e1878526",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DesireeJoy_Portfolio/static/js/3.a76a2add.chunk.js"
   },
   {
-    "revision": "f28966ae586041e8a657",
+    "revision": "a4be3515da15767cae40",
     "url": "/DesireeJoy_Portfolio/static/js/main.64efaccd.chunk.js"
   },
   {
@@ -54,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4c79956d0955547be4707642c6d6eb99",
     "url": "/DesireeJoy_Portfolio/static/media/hamburger.4c79956d.svg"
+  },
+  {
+    "revision": "9e3361dda0b40b3489c91fccb903aa05",
+    "url": "/DesireeJoy_Portfolio/static/media/header-alt.9e3361dd.png"
   },
   {
     "revision": "edeee3213f95c80ea2f6a96206375a57",
