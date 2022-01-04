@@ -1,0 +1,31 @@
+.nav {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+}
+.nav__list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style: none;
+  padding: 0;
+}
+.nav__item {
+  margin: 0 10px;
+}
+.nav__link {
+  text-decoration: none;
+  color: gold;
+}
+.nav__link:hover {
+  border-bottom: 1px solid white;
+  color: white;
+}
+.nav__link:focus {
+  border-bottom: 1px solid white;
+  color: grey;
+}
+.nav__link-active {
+  text-decoration: none;
+  color: gold;
+}

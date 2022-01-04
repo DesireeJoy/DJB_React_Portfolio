@@ -1,0 +1,105 @@
+.contact__heading {
+  width: 80%;
+  margin: 0;
+  font-size: 3rem;
+  font-weight: 400;
+  text-align: left;
+  padding-top: 20px;
+}
+.contact__subheading {
+  width: 80%;
+  margin: 0;
+  margin-bottom: 25px;
+  font-size: 2rem;
+  color: rgba(0, 0, 0, 0.5);
+  font-weight: 400;
+  text-align: left;
+  padding-top: 5px;
+}
+.object__list-social {
+  padding: 0;
+  margin: 0;
+  padding-right: 25px;
+}
+
+.object__list-icon {
+  transform: scale(0.8);
+  opacity: 0.6;
+  transition: transform 0.5s ease-in-out;
+}
+.object__list-icon:hover {
+  transform: scale(1);
+  transition: transform 0.5s ease-in-out;
+}
+.otherWork__cont {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.otherWork__card {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  background-color: #edeaea;
+  justify-content: stretch;
+  height: 200px;
+  width: 200px;
+  border: 2px solid darkslategray;
+  margin-right: 20px;
+  overflow: hidden;
+}
+.otherWork__cont {
+  overflow: hidden;
+}
+.otherwork-design {
+  width: 200px;
+  height: 200px;
+  opacity: 0.8;
+  transition: transform 0.5s ease-in-out;
+}
+.otherwork-design {
+  background-image: url("../../images/flyingLFarms.jpeg");
+  background-size: cover;
+  opacity: 0.8;
+  /* transform: scale(1);
+  transition: transform 0.5s ease-in-out; */
+}
+.otherWork-illus:hover {
+  opacity: 1;
+  transform: scale(1.125);
+  transition: transform 0.5s ease-in-out;
+  -webkit-transition: all 0.25s ease-in-out;
+}
+.otherWork-design:hover {
+  opacity: 1;
+  transform: scale(1.125);
+  transition: transform 0.5s ease-in-out;
+  -webkit-transition: all 0.25s ease-in-out;
+}
+.otherWork__link {
+  color: darkslategray;
+  text-align: center;
+  min-width: 100%;
+  background-color: lightgray;
+  padding: 2px;
+  border-top: 2px solid darkslategray;
+  background-color: lightgreen;
+  border-bottom: 6px inset darkslategray;
+  border-right: 6px inset darkslategray;
+  border-top: 2px solid darkslategray;
+  cursor: pointer;
+  margin: 0;
+}
+
+.otherWork__title {
+  color: darkslategray;
+  border-bottom: 2px solid darkslategray;
+  margin: 0;
+  font-size: 14px;
+  font-weight: 600;
+  padding: 5px;
+  line-height: 1em;
+  padding-bottom: 0.25em;
+  letter-spacing: 0.1em;
+  background-color: lightgray;
+}

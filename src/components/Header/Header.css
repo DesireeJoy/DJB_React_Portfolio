@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  padding: 10px 25px;
+  align-items: baseline;
+  background-color: darkslategray;
+  color: white;
+  font-size: 14px;
+  justify-content: space-between;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 5;
+}
+.header__title {
+  font-size: 24px;
+}
+.header-alt {
+  opacity: 0.5 !important;
+}
