@@ -46,8 +46,8 @@
               <button className='object__triangle tri-tech' onClick={(e) => props.handleTechTriangleClick(e) } /> 
        
                 <div className='object__list-cont cont-tech'> 
-              <div className="object__list-item">HTML5, CSS, BEM methodology</div>
-              <div className="object__list-item">Javascript</div>
+              <div className="object__list-item">HTML5, CSS, SASS, BEM methodology</div>
+              <div className="object__list-item">Javascript, Styled Components</div>
               <div className="object__list-item">Nginx, Certbot</div>
  
               </div>
