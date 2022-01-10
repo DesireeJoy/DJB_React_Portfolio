@@ -2,7 +2,7 @@
   "name": "my-react-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://DesireeJoy.github.io/DesireeJoy_Portfolio/about",
+  "homepage": "https://DesireeJoy.github.io/DesireeJoy_Portfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
