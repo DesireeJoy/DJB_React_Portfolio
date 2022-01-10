@@ -29,7 +29,7 @@ import React from 'react';
 <a href={props.link} className='project__code-link'><Code size={14} /> Code</a>
 </div>
 <div className='project__code'> 
-{props.video === "" ? <img className='project__code-video disabled' src={noVideo} alt='no code your available' /> : <a href={props.vid} className='project__code-video'><Video size={14} /> Code Tour</a>}
+{props.video === "" ? <div className='project__code-video disabled'><img src={noVideo} alt='no code your available'/></div> : <a href={props.vid} className='project__code-video'><Video size={14} /> Code Tour</a>}
 </div>
   </div>
   )};
